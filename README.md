@@ -421,7 +421,3 @@ cargo test
 6. Benchmark fixtures against BAliBASE, HomFam, and AlphaFold-style family batches
 
 ---
-
-## License
-
-This project is provided as-is for research and educational use. See `LICENSE` for details (if present).
